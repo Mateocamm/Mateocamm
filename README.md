@@ -1,8 +1,9 @@
 #Hi 👋! This is Mateo... 
 
 💻 Frontend Developer
-🏝️ Living in Bali
 🇦🇷 Argentinian 
+🏝️ Living in Bali
+
 
 - - - - - - - - - - 
 
