@@ -12,13 +12,13 @@
   - www.ViajarEnBali.com
   - www.EasyKomodo.com 
   - www.LocoPorIndonesia.com
+  - www.EasyFastboat.com
   - www.MenuLindo.net
   - www.YourTutor.id
   - www.GarasiFood.com
   - www.m9nu.com
   
 ## Some MVP (need time)
-- https://mvp-fastboat.vercel.app/
 - https://easy-borneo.vercel.app/
 - https://my-invitation.vercel.app/
 - https://alfajoresbali.vercel.app/
